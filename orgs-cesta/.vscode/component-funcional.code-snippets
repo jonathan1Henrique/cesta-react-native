@@ -1,0 +1,15 @@
+{
+    "Componente Funcional": {
+        "scope": "javascript",
+        "prefix": "compF",
+        "body": [
+            "import React from 'react';",
+           "",
+            "export default function () {",
+            "    ",
+            "}",
+            
+        ],
+        "description": "Log output to console"
+    }
+}
